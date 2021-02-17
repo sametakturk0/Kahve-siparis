@@ -1,0 +1,39 @@
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe.config
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Form1.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Giris.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KahveEkle.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KayitOl.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Properties.Resources.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.GenerateResource.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.pdb
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe.config
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.pdb
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Form1.resources
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Giris.resources
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KahveEkle.resources
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KayitOl.resources
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.exe
+C:\Users\SAMET ktürk\Desktop\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.pdb
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe.config
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.exe
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\bin\Debug\KahveciUygulama.pdb
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csprojAssemblyReference.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Form1.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Giris.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KahveEkle.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.KayitOl.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.Properties.Resources.resources
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.GenerateResource.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.csproj.CoreCompileInputs.cache
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.exe
+C:\Users\SAMET ktürk\Desktop\uygulamalar\kodlarım servetim\ödevler\KahveciUygulama\KahveciUygulama\obj\Debug\KahveciUygulama.pdb
